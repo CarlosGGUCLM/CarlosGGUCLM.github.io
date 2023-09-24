@@ -3,11 +3,11 @@
 --------------------------------------------------------------*/
 
 * {
-    --color: #D69834;
-    --color-hover: #AB6A7B;
-    --quote: #E06230;
-    --background: #340531;
-    --background-light: #732DD9;
+    --color: #34d6d1;
+    --color-hover: #3e4df1;
+    --quote: #000000;
+    --background: #21a1b8;
+    --background-light: #000dff;
 }
 
 body {
@@ -97,7 +97,7 @@ h6 {
 }
 
 #header.header-scrolled {
-    background: rgba(52, 5, 49, 0.9);
+    background:  #020aa7;
 }
 
 #header .logo h1 {
@@ -724,6 +724,9 @@ section {
     }
 }
 
+
+
+
 /*--------------------------------------------------------------
 # Materials
 --------------------------------------------------------------*/
@@ -1098,7 +1101,7 @@ section {
     text-align: center;
     padding: 30px 0;
     background-size: cover;
-    background: url(../img/backgrounds/background2.png) center center no-repeat;
+    background: url(../img/backgrounds/bitmap.png) center center no-repeat;
     position: relative;
 }
 
