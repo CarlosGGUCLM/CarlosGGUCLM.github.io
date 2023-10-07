@@ -1044,7 +1044,7 @@ section {
 }
 
 .faq .faq-list li {
-    border-bottom: 1px solid #054d7a;
+    border-bottom: 1px solid #ffffff;
     margin-bottom: 20px;
     padding-bottom: 20px;
 }
@@ -1079,7 +1079,7 @@ section {
 }
 
 .faq .faq-list .collapsed {
-    color: #250cff;
+    color: #ffffff;
 }
 
 .faq .faq-list .collapsed:hover {
