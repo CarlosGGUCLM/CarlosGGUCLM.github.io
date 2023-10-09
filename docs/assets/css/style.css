@@ -680,7 +680,7 @@ section {
 
 .separator h4 {
     position: relative;
-    color: var(--background);
+    color: rgba(230, 10, 10, 0.7);
     font-style: italic;
     font-size: 28px;
     font-weight: 600;
@@ -688,7 +688,7 @@ section {
 
 .separator p {
     position: relative;
-    color: var(--background);
+    color: rgba(21, 10, 230, 0.7);
     font-size: 20px;
     margin-bottom: 0;
 }
